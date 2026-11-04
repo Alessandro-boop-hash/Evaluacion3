@@ -1,0 +1,3 @@
+.form-cita { display: flex; flex-direction: column; gap: 8px; max-width: 420px; }
+.form-cita select, .form-cita input { padding: 6px; border: 1px solid #d1d5db; border-radius: 4px; }
+.error { color: #dc2626; }

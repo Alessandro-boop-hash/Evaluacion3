@@ -1,0 +1,4 @@
+.boton { padding: 8px 14px; border: none; border-radius: 6px; cursor: pointer; font-size: 14px; }
+.boton-primario { background: #1e40af; color: white; }
+.boton-peligro { background: #dc2626; color: white; }
+.boton-secundario { background: #e5e7eb; color: #111; }

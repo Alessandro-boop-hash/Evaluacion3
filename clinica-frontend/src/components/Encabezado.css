@@ -1,0 +1,12 @@
+.encabezado {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #1e40af;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+.encabezado-logo { font-size: 20px; font-weight: bold; }
+.encabezado-info { display: flex; gap: 16px; font-size: 14px; }

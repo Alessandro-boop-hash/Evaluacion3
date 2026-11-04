@@ -1,0 +1,9 @@
+.tarjeta-medico {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 12px;
+  text-align: center;
+  width: 180px;
+}
+.tarjeta-medico img { width: 80px; height: 80px; border-radius: 50%; object-fit: cover; }
+.tarjeta-medico h4 { margin: 8px 0 4px; }

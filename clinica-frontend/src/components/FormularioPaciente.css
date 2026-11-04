@@ -1,0 +1,6 @@
+.form-paciente { max-width: 420px; }
+.campo { display: flex; flex-direction: column; margin-bottom: 10px; }
+.campo label { font-size: 13px; margin-bottom: 4px; }
+.campo input { padding: 6px; border: 1px solid #d1d5db; border-radius: 4px; }
+.error { color: #dc2626; font-size: 12px; }
+.mensaje { color: #16a34a; font-weight: bold; }
